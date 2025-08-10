@@ -1,0 +1,14 @@
+{
+  "name": "2-shopee-cart",
+  "version": "1.0.0",
+  "description": "Criar um carrinho de compras inspirado no modelo da Shopee, no qual o sistema deve calcular automaticamente o subtotal de cada item e o total geral da compra, considerando quantidade e preço unitário. O objetivo é proporcionar uma experiência simples, intuitiva e eficiente para o usuário, garantindo que os valores sejam atualizados em tempo real sempre que houver alterações no carrinho.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
