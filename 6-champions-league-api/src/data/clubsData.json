@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid",
+    "country": "Spain",
+    "founded": 1902
+  },
+  {
+    "id": 2,
+    "name": "Liverpool",
+    "country": "England",
+    "founded": 1892
+  },
+  {
+    "id": 3,
+    "name": "Bayern Munich",
+    "country": "Germany",
+    "founded": 1900
+  },
+  {
+    "id": 4,
+    "name": "AC Milan",
+    "country": "Italy",
+    "founded": 1899
+  },
+  {
+    "id": 5,
+    "name": "Barcelona",
+    "country": "Spain",
+    "founded": 1899
+  }
+]
