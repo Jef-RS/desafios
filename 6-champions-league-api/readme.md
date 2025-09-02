@@ -17,8 +17,7 @@ acessar os dados de todos os **Players** e tambem possa ver todos os dados dos *
 
 #### **🛡️Clubs**
 
-- Listar dados de todos os clubs
-- Listar dados de um club específico<br><br>
+- Listar dados de todos os clubs<br><br>
 
 ### 💾 Instalação
 
