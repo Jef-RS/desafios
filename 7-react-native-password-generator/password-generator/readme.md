@@ -1,14 +1,10 @@
-# 🦇 Bat Pass Generator
-
-O objetivo do desafio é criar um app gerador de senhas aleatórias utilizando o **Expo**.
-
----
-
-## 📸 Imagem
-
-<a href="#">
-    <img src=".github/assets/preview.png" width="200" />
-</a>
+<div style="text-align: center;">
+  <h1>🦇 Bat Pass Generator</h1>
+  <p>O objetivo do desafio é criar um app gerador de senhas aleatórias utilizando o <strong>Expo</strong>.</p>
+  <a href="#">
+      <img src=".github/assets/preview.png" width="200" />
+  </a>
+</div>
 
 ---
 
@@ -32,4 +28,3 @@ git clone https://github.com/Jef-RS/desafios.git
 cd 7-react-native-password-generator/password-generator
 npm install
 npm start
-```
