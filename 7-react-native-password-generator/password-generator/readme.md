@@ -4,6 +4,14 @@ O objetivo do desafio é criar um app gerador de senhas aleatórias utilizando o
 
 ---
 
+## 📸 Imagem
+
+<a href="#">
+    <img src=".github/assets/preview.png" width="200" />
+</a>
+
+---
+
 ## 📌 O que o app deve fazer
 
 - [x] **Permitir gerar uma senha forte** com caracteres aleatórios, incluindo números e caracteres especiais
